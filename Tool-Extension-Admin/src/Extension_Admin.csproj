@@ -38,15 +38,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="..\..\Tool-Extension-Admin\src\AddCommand.cs" />
-    <Compile Include="..\..\Tool-Extension-Admin\src\App.cs" />
-    <Compile Include="..\..\Tool-Extension-Admin\src\EditableExtensionInfo.cs" />
-    <Compile Include="..\..\Tool-Extension-Admin\src\ExtensionParser.cs" />
-    <Compile Include="..\..\Tool-Extension-Admin\src\ICommand.cs" />
-    <Compile Include="..\..\Tool-Extension-Admin\src\InstallCommand.cs" />
-    <Compile Include="..\..\Tool-Extension-Admin\src\ListBriefCommand.cs" />
-    <Compile Include="..\..\Tool-Extension-Admin\src\ListCommand.cs" />
-    <Compile Include="..\..\Tool-Extension-Admin\src\RemoveCommand.cs" />
+    <Compile Include=".\AddCommand.cs" />
+    <Compile Include=".\App.cs" />
+    <Compile Include=".\EditableExtensionInfo.cs" />
+    <Compile Include=".\ExtensionParser.cs" />
+    <Compile Include=".\ICommand.cs" />
+    <Compile Include=".\InstallCommand.cs" />
+    <Compile Include=".\ListBriefCommand.cs" />
+    <Compile Include=".\ListCommand.cs" />
+    <Compile Include=".\RemoveCommand.cs" />
   </ItemGroup>
 
 </Project>
