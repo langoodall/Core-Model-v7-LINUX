@@ -49,7 +49,7 @@
    </ItemGroup>
 
    <ItemGroup>
-     <ProjectReference Include="..\..\Tool-Extension-Admin\src\Extension_Admin.csproj" />
+     <ProjectReference Include="..\Tool-Extension-Admin\src\Extension_Admin.csproj" />
    </ItemGroup>
 
    <ItemGroup>
