@@ -29,18 +29,6 @@
     <PackageReference Include="System.Runtime.Extensions" Version="4.3.0" />
     <PackageReference Include="System.Runtime.InteropServices" Version="4.3.0" />
     <PackageReference Include="System.Threading" Version="4.3.0" />
-
-    <Compile Include="ListBriefCommand.cs" />
-    <Compile Include="ListCommand.cs" />
-    <Compile Include="RemoveCommand.cs" />
-    <Compile Include="Util.cs" />
-    <Compile Include="AddCommand.cs" />
-    <Compile Include="App.cs" />
-    <Compile Include="EditableExtensionInfo.cs" />
-    <Compile Include="ExtensionParser.cs" />
-    <Compile Include="ICommand.cs" />
-    <Compile Include="InstallCommand.cs" />
-    <Compile Include="obj\Release\Extension_Admin.AssemblyInfo.cs" />
   </ItemGroup>
 
   <ItemGroup>
