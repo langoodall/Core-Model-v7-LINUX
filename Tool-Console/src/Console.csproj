@@ -45,16 +45,16 @@
   </ItemGroup>
 
    <ItemGroup>
-     <Folder Include="Properties/" />
+     <Folder Include="Properties\" />
    </ItemGroup>
 
    <ItemGroup>
-     <ProjectReference Include="..\..\Tool-Extension-Admin/src/Extension_Admin.csproj" />
+     <ProjectReference Include="..\..\Tool-Extension-Admin\src\Extension_Admin.csproj" />
    </ItemGroup>
 
    <ItemGroup>
-    <Compile Include="..\..\Tool-Extension-Admin/src/App.cs" />
-    <Compile Include="..\..\Tool-Extension-Admin/src/ConsoleInterface.cs" />
+    <Compile Include="..\..\Tool-Extension-Admin\src\App.cs" />
+    <Compile Include="..\..\Tool-Extension-Admin\src\ConsoleInterface.cs" />
   </ItemGroup>
 
 </Project>
