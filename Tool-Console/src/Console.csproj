@@ -54,7 +54,7 @@
 
    <ItemGroup>
     <Compile Include="..\..\Tool-Extension-Admin\src\App.cs" />
-    <Compile Include="..\..\Tool-Extension-Admin\src\EConsoleInterface.cs" />
+    <Compile Include="..\..\Tool-Extension-Admin\src\ConsoleInterface.cs" />
   </ItemGroup>
 
 </Project>
