@@ -40,7 +40,7 @@
   <ItemGroup>
     <Compile Include="..\..\Tool-Extension-Admin\src\AddCommand.cs" />
     <Compile Include="..\..\Tool-Extension-Admin\src\App.cs" />
-    <Compile Include="..\..\Tool-Extension-Admin\src\EditableExtensions.cs" />
+    <Compile Include="..\..\Tool-Extension-Admin\src\EditableExtensionInfo.cs" />
     <Compile Include="..\..\Tool-Extension-Admin\src\ExtensionParser.cs" />
     <Compile Include="..\..\Tool-Extension-Admin\src\ICommand.cs" />
     <Compile Include="..\..\Tool-Extension-Admin\src\InstallCommand.cs" />
