@@ -37,4 +37,17 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Include="AddCommand.cs" />
+    <Compile Include="App.cs" />
+    <Compile Include="EditableExtensionInfo.cs" />
+    <Compile Include="ExtensionParser.cs" />
+    <Compile Include="ICommand.cs" />
+    <Compile Include="InstallCommand.cs" />
+    <Compile Include="ListBriefCommand.cs" />
+    <Compile Include="ListCommand.cs" />
+    <Compile Include="RemoveCommand.cs" />
+    <Compile Include="Util.cs" />
+  </ItemGroup>   
+
 </Project>
