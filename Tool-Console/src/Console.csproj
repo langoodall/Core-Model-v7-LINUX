@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <RootNamespace>Landis.Console</RootNamespace>
@@ -26,7 +26,7 @@
     <PackageReference Include="Landis.RasterIO.Gdal.Linux" Version="2.0.0" />
     <PackageReference Include="Landis.SpatialModeling" Version="2.0.0" />
     <PackageReference Include="Landis.Utilities" Version="2.0.0" />
-    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="log4net" Version="2.0.12" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.5.0-rc1" />
     <PackageReference Include="System.Runtime.InteropServices" Version="4.3.0" />
     <PackageReference Include="System.Threading" Version="4.3.0" />
